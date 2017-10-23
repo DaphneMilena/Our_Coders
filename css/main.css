@@ -1,0 +1,56 @@
+body{
+  background: #ebe8e5;
+}
+
+h1{
+  padding: 0px;
+  font-family: 'Sanchez', serif;
+}
+img{
+  width: 152px;
+  height: 152px;
+  padding: 35px;
+}
+
+div{
+  display: inline;
+  font-family: 'Sanchez', serif;
+}
+
+.tag1{
+  color: #ffffff;
+  position: relative;
+  bottom: 316px;
+  left: 50px;
+}
+
+.tag2{
+  color: #ffffff;
+  position: relative;
+  bottom: 350px;
+  left: 300px;
+}
+.tag3{
+  color: #ffffff;
+  position: relative;
+  bottom: 385px;
+  left: 500px;
+}
+.tag4{
+  color: #ffffff;
+  position: relative;
+  bottom: 190px;
+  left: 60px;
+}
+.tag5{
+  color: #ffffff;
+  position: relative;
+  bottom: 220px;
+  left: 280px;
+}
+.tag6{
+  color: #ffffff;
+  position: relative;
+  bottom: 260px;
+  left: 525px;
+}
